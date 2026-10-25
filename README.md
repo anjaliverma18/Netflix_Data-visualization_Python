@@ -26,6 +26,7 @@ https://itv-contentbucket.s3.ap-south-1.amazonaws.com/Exams/AWP/pandas/Netflix.c
 The dataset contains information about Netflix titles, including:  
 
 | Column | Description |  
+|---|---|
 | Title | Name of the movie or series |  
 | Genre | Genre or genres associated with the title |  
 | Languages | Languages associated with the content |  
@@ -65,14 +66,14 @@ Install Python and Jupyter Notebook, or use an environment that supports Jupyter
 
 ### Step 1: Clone the repository  
 ```bash  
-git clone https://github.com/YOUR-USERNAME/netflix-dataset-visualization.git  
+git clone https://github.com/anjaliverma18/netflix-dataset-visualization.git  
 ```  
 
 ### Step 2: Navigate to the project folder  
 cd netflix-dataset-visualization    
 
 ### Step 3: Install the required libraries  
-pip install pandas matplotlib seaborn jupyter    
+pip install pandas matplotlib seaborn      
  
 ### Step 4: Launch Jupyter Notebook  
 jupyter notebook  
