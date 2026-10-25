@@ -65,9 +65,7 @@ The dataset contains information about Netflix titles, including:
 Install Python and Jupyter Notebook, or use an environment that supports Jupyter notebooks.  
 
 ### Step 1: Clone the repository  
-```bash  
-git clone https://github.com/anjaliverma18/netflix-dataset-visualization.git  
-```  
+git clone https://github.com/anjaliverma18/netflix-dataset-visualization.git   
 
 ### Step 2: Navigate to the project folder  
 cd netflix-dataset-visualization    
