@@ -1,1 +1,8 @@
+# Required libraries:  
+-pandas  
+-matplotlib  
+-seaborn  
+
+
+
 
